@@ -1,0 +1,41 @@
+Elevator direction is: up
+Elevator in floor: 1
+Elevator in floor: 2
+Elevator in floor: 3
+Elevator in floor: 4
+Elevator in floor: 5
+Elevator in floor: 6
+Elevator direction is: stand
+Elevator Door open
+Elevator Door close
+Elevator direction is: up
+Elevator in floor: 6
+Elevator in floor: 7
+Elevator direction is: stand
+Elevator Door open
+Elevator Door close
+Elevator direction is: down
+Elevator in floor: 7
+Elevator in floor: 6
+Elevator in floor: 5
+Elevator in floor: 4
+Elevator in floor: 3
+Elevator in floor: 2
+Elevator in floor: 1
+Elevator direction is: stand
+Elevator Door open
+Elevator Door close
+Elevator direction is: up
+Elevator in floor: 1
+Elevator in floor: 2
+Elevator in floor: 3
+Elevator direction is: stand
+Elevator Door open
+Elevator Door close
+Elevator direction is: up
+Elevator in floor: 3
+Elevator in floor: 4
+Elevator in floor: 5
+Elevator in floor: 6
+Elevator in floor: 7
+Elevator direction is: stand
