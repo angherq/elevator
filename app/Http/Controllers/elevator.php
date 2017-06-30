@@ -85,6 +85,6 @@ class elevator extends BaseController {
     }
 
     public function write_log($text) {
-        file_put_contents(public_path('log.txt'), $text . PHP_EOL, FILE_APPEND | LOCK_EX);
+        file_put_contents(public_path('log.txt'), $text . "\r\n", FILE_APPEND | LOCK_EX);
     }
 }
